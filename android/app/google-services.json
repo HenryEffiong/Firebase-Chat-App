@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "5929407951",
+    "firebase_url": "https://flash-chat-b4ae8.firebaseio.com",
+    "project_id": "flash-chat-b4ae8",
+    "storage_bucket": "flash-chat-b4ae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5929407951:android:1d9aba93e0d236dd1a2eba",
+        "android_client_info": {
+          "package_name": "co.henryhogan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5929407951-lrjtmnho2njsgoca9fk8h9ru63g2p2al.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.henryhogan.flash_chat",
+            "certificate_hash": "a3b50e65bfa0d2edea87fc4c40e2844a86bf50fc"
+          }
+        },
+        {
+          "client_id": "5929407951-5ntg2447al0egan3k0p4282fnntg75a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1MZ_2OWrXk49vZSLHItr8jjHgzOk6Dp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5929407951-5ntg2447al0egan3k0p4282fnntg75a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5929407951:android:3fc3a691259db0661a2eba",
+        "android_client_info": {
+          "package_name": "com.hp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5929407951-5ntg2447al0egan3k0p4282fnntg75a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1MZ_2OWrXk49vZSLHItr8jjHgzOk6Dp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5929407951-5ntg2447al0egan3k0p4282fnntg75a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
